@@ -1,0 +1,2 @@
+C:/Users/l3aoia/StudioProjects/learn_navigation_and_routing/android/app/.cxx/Debug/524q343d/x86/CMakeFiles/edit_cache.dir
+C:/Users/l3aoia/StudioProjects/learn_navigation_and_routing/android/app/.cxx/Debug/524q343d/x86/CMakeFiles/rebuild_cache.dir
